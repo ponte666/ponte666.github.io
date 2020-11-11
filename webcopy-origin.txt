@@ -1,0 +1,356 @@
+Uri: https://ponte.atadon.com/
+File Name: C:\Downloaded Web Sites\ponte.atadon.com\index.htm
+Content Type: text/html
+
+Uri: https://ponte.atadon.com/static/css/bootstrap.min.css
+File Name: C:\Downloaded Web Sites\ponte.atadon.com\static\css\bootstrap.min.css
+Content Type: text/css
+
+Uri: https://ponte.atadon.com/static/css/mdb.min.css
+File Name: C:\Downloaded Web Sites\ponte.atadon.com\static\css\mdb.min.css
+Content Type: text/css
+
+Uri: https://ponte.atadon.com/static/css/font.css
+File Name: C:\Downloaded Web Sites\ponte.atadon.com\static\css\font.css
+Content Type: text/css
+
+Uri: https://ponte.atadon.com/static/css/grid.css
+File Name: C:\Downloaded Web Sites\ponte.atadon.com\static\css\grid.css
+Content Type: text/css
+
+Uri: https://ponte.atadon.com/index.html
+File Name: C:\Downloaded Web Sites\ponte.atadon.com\index.html
+Content Type: text/html
+
+Uri: https://ponte.atadon.com/about.html
+File Name: C:\Downloaded Web Sites\ponte.atadon.com\about.html
+Content Type: text/html
+
+Uri: https://ponte.atadon.com/juice.html
+File Name: C:\Downloaded Web Sites\ponte.atadon.com\juice.html
+Content Type: text/html
+
+Uri: https://ponte.atadon.com/grapes.html
+File Name: C:\Downloaded Web Sites\ponte.atadon.com\grapes.html
+Content Type: text/html
+
+Uri: https://ponte.atadon.com/ubrew.html
+File Name: C:\Downloaded Web Sites\ponte.atadon.com\ubrew.html
+Content Type: text/html
+
+Uri: https://ponte.atadon.com/accessories.html
+File Name: C:\Downloaded Web Sites\ponte.atadon.com\accessories.html
+Content Type: text/html
+
+Uri: https://ponte.atadon.com/contacts.html
+File Name: C:\Downloaded Web Sites\ponte.atadon.com\contacts.html
+Content Type: text/html
+
+Uri: https://www.facebook.com/
+File Name: C:\Downloaded Web Sites\ponte.atadon.com\index-1.htm
+Content Type: text/html
+
+Uri: https://www.instagram.com/
+File Name: C:\Downloaded Web Sites\ponte.atadon.com\index-2.htm
+Content Type: text/html
+
+Uri: https://www.youtube.com/
+File Name: C:\Downloaded Web Sites\ponte.atadon.com\index-3.htm
+Content Type: text/html
+
+Uri: https://ponte.atadon.com/grape_california.html
+File Name: C:\Downloaded Web Sites\ponte.atadon.com\grape_california.html
+Content Type: text/html
+
+Uri: https://ponte.atadon.com/juice_california.html
+File Name: C:\Downloaded Web Sites\ponte.atadon.com\juice_california.html
+Content Type: text/html
+
+Uri: https://ponte.atadon.com/ubrew_california.html
+File Name: C:\Downloaded Web Sites\ponte.atadon.com\ubrew_california.html
+Content Type: text/html
+
+Uri: https://ponte.atadon.com/juice_europe.html
+File Name: C:\Downloaded Web Sites\ponte.atadon.com\juice_europe.html
+Content Type: text/html
+
+Uri: https://ponte.atadon.com/ubrew_europe.html
+File Name: C:\Downloaded Web Sites\ponte.atadon.com\ubrew_europe.html
+Content Type: text/html
+
+Uri: https://ponte.atadon.com/grape_chile.html
+File Name: C:\Downloaded Web Sites\ponte.atadon.com\grape_chile.html
+Content Type: text/html
+
+Uri: https://ponte.atadon.com/juice_samerica.html
+File Name: C:\Downloaded Web Sites\ponte.atadon.com\juice_samerica.html
+Content Type: text/html
+
+Uri: https://ponte.atadon.com/ubrew_samerica.html
+File Name: C:\Downloaded Web Sites\ponte.atadon.com\ubrew_samerica.html
+Content Type: text/html
+
+Uri: https://atadon.com/
+File Name: C:\Downloaded Web Sites\ponte.atadon.com\index-5.htm
+Content Type: text/html
+
+Uri: https://ponte.atadon.com/static/img/california.jpeg
+File Name: C:\Downloaded Web Sites\ponte.atadon.com\static\img\california.jpeg
+Content Type: image/jpeg
+
+Uri: https://ponte.atadon.com/static/img/europe.jpeg
+File Name: C:\Downloaded Web Sites\ponte.atadon.com\static\img\europe.jpeg
+Content Type: image/jpeg
+
+Uri: https://ponte.atadon.com/static/img/samerica.jpeg
+File Name: C:\Downloaded Web Sites\ponte.atadon.com\static\img\samerica.jpeg
+Content Type: image/jpeg
+
+Uri: https://ponte.atadon.com/static/js/jquery.min.js
+File Name: C:\Downloaded Web Sites\ponte.atadon.com\static\js\jquery.min.js
+Content Type: application/javascript
+
+Uri: https://ponte.atadon.com/static/js/popper.min.js
+File Name: C:\Downloaded Web Sites\ponte.atadon.com\static\js\popper.min.js
+Content Type: application/javascript
+
+Uri: https://ponte.atadon.com/static/js/bootstrap.min.js
+File Name: C:\Downloaded Web Sites\ponte.atadon.com\static\js\bootstrap.min.js
+Content Type: application/javascript
+
+Uri: https://ponte.atadon.com/static/js/mdb.min.js
+File Name: C:\Downloaded Web Sites\ponte.atadon.com\static\js\mdb.min.js
+Content Type: application/javascript
+
+Uri: https://ponte.atadon.com/static/js/main.js
+File Name: C:\Downloaded Web Sites\ponte.atadon.com\static\js\main.js
+Content Type: application/javascript
+
+Uri: https://ponte.atadon.com/static/webfonts/fa-brands-400.eot
+File Name: C:\Downloaded Web Sites\ponte.atadon.com\static\webfonts\fa-brands-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://ponte.atadon.com/static/webfonts/fa-brands-400.eot%3F
+File Name: C:\Downloaded Web Sites\ponte.atadon.com\static\webfonts\fa-brands-400-1.eot
+Content Type: application/octet-stream
+
+Uri: https://ponte.atadon.com/static/webfonts/fa-brands-400.woff2
+File Name: C:\Downloaded Web Sites\ponte.atadon.com\static\webfonts\fa-brands-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://ponte.atadon.com/static/webfonts/fa-brands-400.woff
+File Name: C:\Downloaded Web Sites\ponte.atadon.com\static\webfonts\fa-brands-400.woff
+Content Type: application/font-woff
+
+Uri: https://ponte.atadon.com/static/webfonts/fa-brands-400.ttf
+File Name: C:\Downloaded Web Sites\ponte.atadon.com\static\webfonts\fa-brands-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://ponte.atadon.com/static/webfonts/fa-regular-400.eot
+File Name: C:\Downloaded Web Sites\ponte.atadon.com\static\webfonts\fa-regular-400.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://ponte.atadon.com/static/webfonts/fa-regular-400.eot%3F
+File Name: C:\Downloaded Web Sites\ponte.atadon.com\static\webfonts\fa-regular-400-1.eot
+Content Type: application/octet-stream
+
+Uri: https://ponte.atadon.com/static/webfonts/fa-regular-400.woff2
+File Name: C:\Downloaded Web Sites\ponte.atadon.com\static\webfonts\fa-regular-400.woff2
+Content Type: application/octet-stream
+
+Uri: https://ponte.atadon.com/static/webfonts/fa-regular-400.woff
+File Name: C:\Downloaded Web Sites\ponte.atadon.com\static\webfonts\fa-regular-400.woff
+Content Type: application/font-woff
+
+Uri: https://ponte.atadon.com/static/webfonts/fa-regular-400.ttf
+File Name: C:\Downloaded Web Sites\ponte.atadon.com\static\webfonts\fa-regular-400.ttf
+Content Type: application/octet-stream
+
+Uri: https://ponte.atadon.com/static/webfonts/fa-solid-900.eot
+File Name: C:\Downloaded Web Sites\ponte.atadon.com\static\webfonts\fa-solid-900.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://ponte.atadon.com/static/webfonts/fa-solid-900.eot%3F
+File Name: C:\Downloaded Web Sites\ponte.atadon.com\static\webfonts\fa-solid-900-1.eot
+Content Type: application/octet-stream
+
+Uri: https://ponte.atadon.com/static/webfonts/fa-solid-900.woff2
+File Name: C:\Downloaded Web Sites\ponte.atadon.com\static\webfonts\fa-solid-900.woff2
+Content Type: application/octet-stream
+
+Uri: https://ponte.atadon.com/static/webfonts/fa-solid-900.woff
+File Name: C:\Downloaded Web Sites\ponte.atadon.com\static\webfonts\fa-solid-900.woff
+Content Type: application/font-woff
+
+Uri: https://ponte.atadon.com/static/webfonts/fa-solid-900.ttf
+File Name: C:\Downloaded Web Sites\ponte.atadon.com\static\webfonts\fa-solid-900.ttf
+Content Type: application/octet-stream
+
+Uri: https://fonts.googleapis.com/css2?family=Courgette&family=Great+Vibes&display=swap
+File Name: C:\Downloaded Web Sites\ponte.atadon.com\css2.css
+Content Type: text/css
+
+Uri: https://ponte.atadon.com/static/css/back1.jpeg
+File Name: C:\Downloaded Web Sites\ponte.atadon.com\static\css\back1.jpeg
+Content Type: image/jpeg
+
+Uri: https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2909.7320485866076!2d-79.21183508451777!3d43.17314837914078!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89d350850c7f9371:0xd778c63d0b3eb6bb!2s226 Bunting Rd%2C St. Catharines%2C ON L2M 3Y1!5e0!3m2!1sru!2sca!4v1598671702966!5m2!1sru!2sca
+File Name: C:\Downloaded Web Sites\ponte.atadon.com\maps\embed.html
+Content Type: text/html
+
+Uri: https://ponte.atadon.com/grape/Alicante.html
+File Name: C:\Downloaded Web Sites\ponte.atadon.com\grape\Alicante.html
+Content Type: text/html
+
+Uri: https://ponte.atadon.com/grape/Chenin Blanc.html
+File Name: C:\Downloaded Web Sites\ponte.atadon.com\grape\Chenin Blanc.html
+Content Type: text/html
+
+Uri: https://ponte.atadon.com/grape/Pinot Chardonnay.html
+File Name: C:\Downloaded Web Sites\ponte.atadon.com\grape\Pinot Chardonnay.html
+Content Type: text/html
+
+Uri: https://ponte.atadon.com/grape/Sauvingnon Blanc.html
+File Name: C:\Downloaded Web Sites\ponte.atadon.com\grape\Sauvingnon Blanc.html
+Content Type: text/html
+
+Uri: https://ponte.atadon.com/grape/French Colombard.html
+File Name: C:\Downloaded Web Sites\ponte.atadon.com\grape\French Colombard.html
+Content Type: text/html
+
+Uri: https://ponte.atadon.com/grape/Muscat.html
+File Name: C:\Downloaded Web Sites\ponte.atadon.com\grape\Muscat.html
+Content Type: text/html
+
+Uri: https://ponte.atadon.com/grape/Thompson Seedless.html
+File Name: C:\Downloaded Web Sites\ponte.atadon.com\grape\Thompson Seedless.html
+Content Type: text/html
+
+Uri: https://ponte.atadon.com/grape/Malvasia.html
+File Name: C:\Downloaded Web Sites\ponte.atadon.com\grape\Malvasia.html
+Content Type: text/html
+
+Uri: https://ponte.atadon.com/grape/Cabernet Franc.html
+File Name: C:\Downloaded Web Sites\ponte.atadon.com\grape\Cabernet Franc.html
+Content Type: text/html
+
+Uri: https://ponte.atadon.com/grape/Cabernet Sauvignon.html
+File Name: C:\Downloaded Web Sites\ponte.atadon.com\grape\Cabernet Sauvignon.html
+Content Type: text/html
+
+Uri: https://ponte.atadon.com/grape/Merlot.html
+File Name: C:\Downloaded Web Sites\ponte.atadon.com\grape\Merlot.html
+Content Type: text/html
+
+Uri: https://ponte.atadon.com/grape/Royal Zinfandel.html
+File Name: C:\Downloaded Web Sites\ponte.atadon.com\grape\Royal Zinfandel.html
+Content Type: text/html
+
+Uri: https://ponte.atadon.com/grape/Ruby Cabernet.html
+File Name: C:\Downloaded Web Sites\ponte.atadon.com\grape\Ruby Cabernet.html
+Content Type: text/html
+
+Uri: https://ponte.atadon.com/grape/Granache.html
+File Name: C:\Downloaded Web Sites\ponte.atadon.com\grape\Granache.html
+Content Type: text/html
+
+Uri: https://ponte.atadon.com/grape/Carignane.html
+File Name: C:\Downloaded Web Sites\ponte.atadon.com\grape\Carignane.html
+Content Type: text/html
+
+Uri: https://ponte.atadon.com/grape/Mission.html
+File Name: C:\Downloaded Web Sites\ponte.atadon.com\grape\Mission.html
+Content Type: text/html
+
+Uri: https://ponte.atadon.com/static/img/grape/red.jpeg
+File Name: C:\Downloaded Web Sites\ponte.atadon.com\static\img\grape\red.jpeg
+Content Type: image/jpeg
+
+Uri: https://ponte.atadon.com/static/img/grape/white.jpeg
+File Name: C:\Downloaded Web Sites\ponte.atadon.com\static\img\grape\white.jpeg
+Content Type: image/jpeg
+
+Uri: https://ponte.atadon.com/grape/Riesling.html
+File Name: C:\Downloaded Web Sites\ponte.atadon.com\grape\Riesling.html
+Content Type: text/html
+
+Uri: https://ponte.atadon.com/grape/Pinot Blanc.html
+File Name: C:\Downloaded Web Sites\ponte.atadon.com\grape\Pinot Blanc.html
+Content Type: text/html
+
+Uri: https://ponte.atadon.com/grape/Premium Chablis.html
+File Name: C:\Downloaded Web Sites\ponte.atadon.com\grape\Premium Chablis.html
+Content Type: text/html
+
+Uri: https://ponte.atadon.com/grape/Zinfandel Blush.html
+File Name: C:\Downloaded Web Sites\ponte.atadon.com\grape\Zinfandel Blush.html
+Content Type: text/html
+
+Uri: https://ponte.atadon.com/grape/Palomino.html
+File Name: C:\Downloaded Web Sites\ponte.atadon.com\grape\Palomino.html
+Content Type: text/html
+
+Uri: https://ponte.atadon.com/grape/Pinot Noir.html
+File Name: C:\Downloaded Web Sites\ponte.atadon.com\grape\Pinot Noir.html
+Content Type: text/html
+
+Uri: https://ponte.atadon.com/grape/Zinfandel.html
+File Name: C:\Downloaded Web Sites\ponte.atadon.com\grape\Zinfandel.html
+Content Type: text/html
+
+Uri: https://ponte.atadon.com/grape/Trebbiano.html
+File Name: C:\Downloaded Web Sites\ponte.atadon.com\grape\Trebbiano.html
+Content Type: text/html
+
+Uri: https://ponte.atadon.com/grape/Blanc Grigio.html
+File Name: C:\Downloaded Web Sites\ponte.atadon.com\grape\Blanc Grigio.html
+Content Type: text/html
+
+Uri: https://ponte.atadon.com/grape/Gewurztraminer.html
+File Name: C:\Downloaded Web Sites\ponte.atadon.com\grape\Gewurztraminer.html
+Content Type: text/html
+
+Uri: https://ponte.atadon.com/grape/Merlot Reserve.html
+File Name: C:\Downloaded Web Sites\ponte.atadon.com\grape\Merlot Reserve.html
+Content Type: text/html
+
+Uri: https://ponte.atadon.com/grape/Petit Zyrah.html
+File Name: C:\Downloaded Web Sites\ponte.atadon.com\grape\Petit Zyrah.html
+Content Type: text/html
+
+Uri: https://ponte.atadon.com/grape/Valpolicella.html
+File Name: C:\Downloaded Web Sites\ponte.atadon.com\grape\Valpolicella.html
+Content Type: text/html
+
+Uri: https://ponte.atadon.com/grape/Montepulciano.html
+File Name: C:\Downloaded Web Sites\ponte.atadon.com\grape\Montepulciano.html
+Content Type: text/html
+
+Uri: https://ponte.atadon.com/grape/Chiante.html
+File Name: C:\Downloaded Web Sites\ponte.atadon.com\grape\Chiante.html
+Content Type: text/html
+
+Uri: https://ponte.atadon.com/grape/Barolo.html
+File Name: C:\Downloaded Web Sites\ponte.atadon.com\grape\Barolo.html
+Content Type: text/html
+
+Uri: https://ponte.atadon.com/grape/Malbec.html
+File Name: C:\Downloaded Web Sites\ponte.atadon.com\grape\Malbec.html
+Content Type: text/html
+
+Uri: https://ponte.atadon.com/grape/Carmenere.html
+File Name: C:\Downloaded Web Sites\ponte.atadon.com\grape\Carmenere.html
+Content Type: text/html
+
+Uri: https://ponte.atadon.com/grape/Barnera.html
+File Name: C:\Downloaded Web Sites\ponte.atadon.com\grape\Barnera.html
+Content Type: text/html
+
+Uri: https://www.google.com/maps/place/226+Bunting+Rd,+St.+Catharines,+ON+L2M+3Y1/@43.1731523,-79.2118351,17z/data=!3m1!4b1!4m5!3m4!1s0x89d350850c7f9371:0xd778c63d0b3eb6bb!8m2!3d43.1731484!4d-79.2096464?shorturl=1
+File Name: C:\Downloaded Web Sites\ponte.atadon.com\maps\place\226 Bunting Rd, St. Catharines, ON L2M 3Y1\@43.1731523,-79.2118351,17z\data=!3m1!4b1!4m5!3m4!1s0x89d350850c7f93710xd778c63d0b3eb6bb!8m2!3d43.1731484!4d-79.2096464.html
+Content Type: text/html
+
+Uri: https://www.ontario.ca/
+File Name: C:\Downloaded Web Sites\ponte.atadon.com\index-4.htm
+Content Type: text/html
+
