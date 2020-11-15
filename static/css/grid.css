@@ -1,4 +1,4 @@
-@import url('../../css2.css');
+@import url('https://fonts.googleapis.com/css2?family=Courgette&family=Great+Vibes&display=swap');
 :root{
     --clr-1: #0A100D;
     --clr-2: #F26419;
@@ -25,6 +25,10 @@ body, html {
 }
 h1, h2, h3, h4, h5, h6 {
     font-family: 'Great Vibes', cursive;
+}
+tr, th {
+    font-family: Arial, cursive;
+    font-weight: bold;
 }
 
 .item-page, .page-text, .logo, .item-single, .scrollup, .changer{
